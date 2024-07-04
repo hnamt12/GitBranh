@@ -1,1 +1,1 @@
-var a = " hiển thị sản phẩm " ; 
+console.log("đây là chức năng hiển thị sản phẩm bán quần áo produc !gi")
